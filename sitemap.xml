@@ -3,26 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zhoujfan.github.io/post/first/</loc>
+    <loc>localhost/</loc>
+    <lastmod>2020-12-24T22:38:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/post/</loc>
+    <lastmod>2020-12-24T22:38:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/post/second/</loc>
+    <lastmod>2020-12-24T22:38:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/post/first/</loc>
     <lastmod>2020-12-24T21:11:52+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhoujfan.github.io/</loc>
-    <lastmod>2020-12-24T21:11:52+08:00</lastmod>
+    <loc>localhost/about/</loc>
+    <lastmod>2020-12-24T21:08:22+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhoujfan.github.io/post/</loc>
-    <lastmod>2020-12-24T21:11:52+08:00</lastmod>
+    <loc>localhost/categories/</loc>
   </url>
   
   <url>
-    <loc>https://zhoujfan.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zhoujfan.github.io/tags/</loc>
+    <loc>localhost/tags/</loc>
   </url>
   
 </urlset>
